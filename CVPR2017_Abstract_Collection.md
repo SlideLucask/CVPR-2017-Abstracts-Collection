@@ -4,15 +4,11 @@ It is a convient project for CVPR fast reading. Some information are missing, an
 
 ## Machine Learning 1
 
-Spotlight 1-1A
 
-#### Exclusivity-Consistency Regularized Multi-View Subspace Clustering
 
-Xiaobo Wang, Xiaojie Guo, Zhen Lei, Changqing Zhang, Stan Z. Li
 
-_**Abstract**_: &emsp;_[]_
 
-_**Comment**_: &emsp;_< >_
+
 
 #### *Borrowing Treasures From the Wealthy: Deep Transfer Learning Through Selective Joint Fine-Tuning  [PDF](https://arxiv.org/abs/1702.08690)
 
